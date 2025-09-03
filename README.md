@@ -16,9 +16,11 @@ Ali Store wants to create an annual sales report for 2025. So that Ali can under
 7. Which channel is contributing to maximum sales?
 8. What is the highest selling category channel?
 
------------------------------------------------------------------------------------------------------------------------
 (project-2)
 In dwali sale analysis project we solve sample queshion with the help of phyton(EDA) or objectie was:
 i)improve customer experience by analyzing sales data
 ii)we can incrsease our revenue
+
 -----------------------------------------------------------------------------------------------------------------------
+
+
