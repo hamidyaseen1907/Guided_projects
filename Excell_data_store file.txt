@@ -1,0 +1,30 @@
+
+--Objective--
+Ali Store wants to create an annual sales report for 2025. So that Ali can understand their customers and grow more sales in 2026.
+
+--Sample Questions:--
+
+1. Compare the sales and orders using a single chart
+2. Which month got the highest sales and orders?
+3. Who purchases more, men or women in 2025?
+4. What are the different order statuses in 2025?
+5. List top 5 states contributing to the sales
+6. Relation between age and gender based on the numbers
+7. Which channel is contributing to maximum sales?
+8. What is the highest selling category channel?
+
+
+--insight--
+1&2) March Month got the highest sales  almost 1.92M.
+3)   Women do more shopping compare to men.
+4)   Most orders has been delivered.
+5)   Top 5 states contributing to the sales are MAHARASHTRA,KARNATAKA,UTTAR PRADESH,TELANGANA and TAMIL NADU.
+6)   Women of the adult category were doing more sales.
+7)   Amazon is the highest selling category channel
+
+
+
+
+
+
+
